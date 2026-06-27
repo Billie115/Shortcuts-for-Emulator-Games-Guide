@@ -69,6 +69,14 @@ Type the desired name for your shortcut (e.g., `Pokémon FireRed`).
 
 ---
 
+## Final Result
+
+Your shortcut is ready! It should now appear on your desktop with the custom icon and launch your game directly through the emulator.
+
+![Final Result](/readmeImages/STEP_FINAL.png)
+
+---
+
 ## Icon Tutorial — Convert PNG to ICO
 
 You can turn any image into an icon using the included `convertToICO.ps1` PowerShell script:
